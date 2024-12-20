@@ -1,0 +1,2 @@
+# LocketGold
+bt: none
